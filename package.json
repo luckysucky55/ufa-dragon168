@@ -1,0 +1,14 @@
+{
+  "name": "ufa dragon168",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "ufa dragon168 เว็บคาสิโน เครดิตฟรี ฝาก-ถอนไวไม่มีขั้นต่ำ",
+  "keywords": [
+    "ufa dragon168","ufabet แทงบอล","๊UFA007","UFABET เว็บแม","ยูฟ่า168"
+  ],
+  "repository": "https://github.com/luckysucky55/ufa-dragon168",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
